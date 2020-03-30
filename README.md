@@ -1,10 +1,10 @@
 # image_processing_basics
  
 1.	Write python functions for the following:
-   a.	Read an image
-   b.	Copy the image into another file
-   c.	Get the image information
-   d.	Find the compression ratio for the copied image
+   \na.	Read an image
+   \nb.	Copy the image into another file
+   \nc.	Get the image information
+   \nd.	Find the compression ratio for the copied image
 2.	Display the negative of an image using the python 
 3.	Write a function for histogram plotting of an image
 4.	Write a python program to perform histogram equalization.
